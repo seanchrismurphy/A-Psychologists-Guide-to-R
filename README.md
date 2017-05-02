@@ -5,11 +5,12 @@ While I taught this course live, I also designed it with self-teaching in mind. 
 
 Please let me know if you have any feedback or if you find any errors (or feel free to submit a pull request if you're technically savvy)
 
+You may find <a href= "https://cran.r-project.org/doc/contrib/Short-refcard.pdf">this</a> reference card a useful reminder for common functions
+
+
 http://seancmurphy.com/
 
 
-
-You may find <a href= "https://cran.r-project.org/doc/contrib/Short-refcard.pdf">this</a> reference card a useful reminder for common functions
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
