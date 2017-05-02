@@ -198,6 +198,8 @@ print(neo_fact)
 # fit statistics again - but these are probably best viewed by using summary(). 
 
 
+# For more on factor analysis with the psych package, see
+# http://personality-project.org/r/psych/HowTo/factor.pdf
 
 ### Exercises
 
