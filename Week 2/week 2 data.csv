@@ -1,0 +1,21 @@
+"gender","age","pet_owner","pet","employment","condition","warmth_1","warmth_2","warmth_3"
+"male","37","Yes","turtle","Unemployed",0,4,4,5
+"female","22","No","None","Unemployed",0,5,4,5
+"male",".","Yes","cat, dog","Part",0,4,2,4
+"female","21","No","None","Full",0,4,6,5
+"female","27","No","None","Part",0,4,1,4
+"female","18","No","None","Full",1,4,3,5
+"female","46","Yes","cat","Unemployed",1,7,7,7
+"female",".","Yes","turtle, bird","Full",1,4,2,6
+"female","22","Yes","dog","Unemployed",1,3,1,3
+"female","28","No","None","Unemployed",1,6,3,3
+"male","34","No","None","Part",2,1,2,2
+"male","45","No","None","Unemployed",2,5,5,5
+"female","21","Yes","bird","Unemployed",2,4,2,0
+"male","45","Yes","turtle","Part",2,6,5,6
+"male",".","Yes","bird, cat","Full",2,7,7,7
+"male","40","Yes","dog","Full",3,4,3,4
+"female","23","Yes","turtle","Unemployed",3,5,4,6
+"female","36","No","None","Unemployed",3,4,2,4
+"female","24","Yes","cat","Part",3,3,2,4
+"female","21","Yes","dog","Full",3,5,4,3

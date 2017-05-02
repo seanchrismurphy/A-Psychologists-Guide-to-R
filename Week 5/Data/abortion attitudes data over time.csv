@@ -1,0 +1,1057 @@
+"district","respondent","year","abortion_support","party","social.class","gender","age","religion","athiest"
+1,3322,0,7,"labour","lower working","male",65,"protestant",FALSE
+1,3322,1,3,"labour","lower working","male",65,"protestant",FALSE
+1,3322,2,4,"labour","lower working","male",65,"protestant",FALSE
+1,3322,3,7,"labour","lower working","male",65,"protestant",FALSE
+1,3325,0,3,"none","lower working","female",31,"protestant",FALSE
+1,3325,1,4,"conservative","middle","female",31,"protestant",FALSE
+1,3325,2,6,"labour","lower working","female",31,"protestant",FALSE
+1,3325,3,3,"other","middle","female",31,"protestant",FALSE
+2,3372,0,7,"none","middle","male",33,"none",TRUE
+2,3372,1,7,"other","upper working","male",33,"none",TRUE
+2,3372,2,7,"liberal","lower working","male",33,"none",TRUE
+2,3372,3,7,"liberal","upper working","male",33,"none",TRUE
+2,3374,0,7,"none","upper working","female",43,"none",TRUE
+2,3374,1,7,"conservative","upper working","female",43,"none",TRUE
+2,3374,2,7,"liberal","upper working","female",43,"none",TRUE
+2,3374,3,7,"liberal","upper working","female",43,"none",TRUE
+2,3378,0,3,"conservative","middle","male",48,"protestant",FALSE
+2,3378,1,3,"conservative","middle","male",48,"protestant",FALSE
+2,3378,2,3,"conservative","middle","male",48,"protestant",FALSE
+2,3378,3,3,"conservative","middle","male",48,"protestant",FALSE
+2,3386,0,6,"labour","lower working","male",55,"none",TRUE
+2,3386,1,5,"labour","lower working","male",55,"none",TRUE
+2,3386,2,7,"labour","lower working","male",55,"none",TRUE
+2,3386,3,7,"labour","lower working","male",55,"none",TRUE
+2,3388,0,7,"conservative","upper working","male",59,"protestant",FALSE
+2,3388,1,3,"liberal","upper working","male",59,"protestant",FALSE
+2,3388,2,6,"liberal","upper working","male",59,"protestant",FALSE
+2,3388,3,6,"liberal","lower working","male",59,"protestant",FALSE
+3,2164,0,7,"conservative","lower working","female",45,"protestant",FALSE
+3,2164,1,7,"other","lower working","female",45,"protestant",FALSE
+3,2164,2,7,"conservative","lower working","female",45,"protestant",FALSE
+3,2164,3,7,"liberal","lower working","female",45,"protestant",FALSE
+3,2173,0,7,"labour","upper working","female",63,"protestant",FALSE
+3,2173,1,7,"labour","lower working","female",63,"protestant",FALSE
+3,2173,2,6,"labour","middle","female",63,"protestant",FALSE
+3,2173,3,7,"labour","middle","female",63,"protestant",FALSE
+3,2182,0,4,"conservative","upper working","female",24,"other",FALSE
+3,2182,1,5,"conservative","upper working","female",24,"other",FALSE
+3,2182,2,6,"conservative","lower working","female",24,"other",FALSE
+3,2182,3,7,"conservative","lower working","female",24,"other",FALSE
+4,39,0,3,"liberal","lower working","male",49,"none",TRUE
+4,39,1,7,"liberal","lower working","male",49,"none",TRUE
+4,39,2,3,"liberal","lower working","male",49,"none",TRUE
+4,39,3,3,"liberal","lower working","male",49,"none",TRUE
+4,46,0,3,"conservative","upper working","female",50,"other",FALSE
+4,46,1,3,"conservative","upper working","female",50,"other",FALSE
+4,46,2,7,"conservative","upper working","female",50,"other",FALSE
+4,46,3,7,"conservative","upper working","female",50,"other",FALSE
+4,48,0,6,"labour","lower working","female",51,"protestant",FALSE
+4,48,1,4,"labour","lower working","female",51,"protestant",FALSE
+4,48,2,3,"labour","lower working","female",51,"protestant",FALSE
+4,48,3,4,"labour","lower working","female",51,"protestant",FALSE
+4,55,0,6,"conservative","lower working","male",21,"none",TRUE
+4,55,1,7,"labour","lower working","male",21,"none",TRUE
+4,55,2,6,"labour","lower working","male",21,"none",TRUE
+4,55,3,7,"labour","upper working","male",21,"none",TRUE
+4,56,0,7,"labour","lower working","male",27,"catholic",FALSE
+4,56,1,5,"labour","upper working","male",27,"catholic",FALSE
+4,56,2,7,"labour","upper working","male",27,"catholic",FALSE
+4,56,3,7,"labour","upper working","male",27,"catholic",FALSE
+4,60,0,4,"conservative","upper working","female",72,"protestant",FALSE
+4,60,1,3,"conservative","middle","female",72,"protestant",FALSE
+4,60,2,5,"conservative","middle","female",72,"protestant",FALSE
+4,60,3,5,"conservative","upper working","female",72,"protestant",FALSE
+5,100,0,5,"labour","lower working","male",66,"other",FALSE
+5,100,1,3,"labour","lower working","male",66,"other",FALSE
+5,100,2,3,"labour","lower working","male",66,"other",FALSE
+5,100,3,3,"labour","lower working","male",66,"other",FALSE
+5,104,0,7,"labour","lower working","female",35,"protestant",FALSE
+5,104,1,7,"labour","lower working","female",35,"protestant",FALSE
+5,104,2,7,"labour","lower working","female",35,"protestant",FALSE
+5,104,3,6,"labour","lower working","female",35,"protestant",FALSE
+5,108,0,1,"liberal","lower working","female",54,"other",FALSE
+5,108,1,3,"liberal","lower working","female",54,"other",FALSE
+5,108,2,3,"liberal","lower working","female",54,"other",FALSE
+5,108,3,3,"liberal","lower working","female",54,"other",FALSE
+5,116,0,7,"labour","lower working","female",34,"none",TRUE
+5,116,1,6,"labour","lower working","female",34,"none",TRUE
+5,116,2,7,"labour","lower working","female",34,"none",TRUE
+5,116,3,7,"labour","lower working","female",34,"none",TRUE
+6,152,0,1,"none","upper working","male",18,"catholic",FALSE
+6,152,1,3,"other","lower working","male",18,"catholic",FALSE
+6,152,2,5,"other","lower working","male",18,"catholic",FALSE
+6,152,3,3,"other","lower working","male",18,"catholic",FALSE
+6,155,0,4,"conservative","lower working","male",28,"none",TRUE
+6,155,1,4,"conservative","lower working","male",28,"none",TRUE
+6,155,2,7,"conservative","lower working","male",28,"none",TRUE
+6,155,3,5,"conservative","lower working","male",28,"none",TRUE
+7,211,0,3,"labour","upper working","female",51,"other",FALSE
+7,211,1,3,"labour","upper working","female",51,"other",FALSE
+7,211,2,3,"liberal","upper working","female",51,"other",FALSE
+7,211,3,3,"liberal","lower working","female",51,"other",FALSE
+7,212,0,1,"labour","lower working","male",56,"other",FALSE
+7,212,1,3,"labour","lower working","male",56,"other",FALSE
+7,212,2,2,"other","lower working","male",56,"other",FALSE
+7,212,3,1,"other","upper working","male",56,"other",FALSE
+7,215,0,7,"labour","lower working","male",36,"none",TRUE
+7,215,1,7,"labour","lower working","male",36,"none",TRUE
+7,215,2,7,"labour","lower working","male",36,"none",TRUE
+7,215,3,7,"labour","lower working","male",36,"none",TRUE
+7,216,0,5,"labour","middle","female",27,"catholic",FALSE
+7,216,1,3,"other","upper working","female",27,"catholic",FALSE
+7,216,2,7,"labour","upper working","female",27,"catholic",FALSE
+7,216,3,6,"labour","lower working","female",27,"catholic",FALSE
+7,223,0,6,"conservative","upper working","male",33,"other",FALSE
+7,223,1,3,"conservative","upper working","male",33,"other",FALSE
+7,223,2,7,"conservative","upper working","male",33,"other",FALSE
+7,223,3,6,"conservative","upper working","male",33,"other",FALSE
+7,224,0,7,"liberal","lower working","female",24,"none",TRUE
+7,224,1,5,"labour","lower working","female",24,"none",TRUE
+7,224,2,3,"labour","lower working","female",24,"none",TRUE
+7,224,3,6,"labour","lower working","female",24,"none",TRUE
+7,238,0,5,"labour","upper working","female",65,"other",FALSE
+7,238,1,5,"labour","lower working","female",65,"other",FALSE
+7,238,2,4,"labour","upper working","female",65,"other",FALSE
+7,238,3,5,"liberal","lower working","female",65,"other",FALSE
+8,272,0,5,"labour","lower working","female",19,"none",TRUE
+8,272,1,3,"labour","lower working","female",19,"none",TRUE
+8,272,2,3,"labour","middle","female",19,"none",TRUE
+8,272,3,3,"labour","lower working","female",19,"none",TRUE
+8,274,0,6,"conservative","lower working","male",31,"none",TRUE
+8,274,1,5,"conservative","lower working","male",31,"none",TRUE
+8,274,2,6,"conservative","lower working","male",31,"none",TRUE
+8,274,3,6,"conservative","lower working","male",31,"none",TRUE
+8,278,0,3,"labour","lower working","female",65,"other",FALSE
+8,278,1,4,"labour","lower working","female",65,"other",FALSE
+8,278,2,3,"labour","lower working","female",65,"other",FALSE
+8,278,3,3,"labour","lower working","female",65,"other",FALSE
+8,283,0,7,"labour","middle","male",60,"none",TRUE
+8,283,1,6,"labour","lower working","male",60,"none",TRUE
+8,283,2,6,"labour","upper working","male",60,"none",TRUE
+8,283,3,5,"labour","lower working","male",60,"none",TRUE
+8,286,0,6,"conservative","lower working","female",38,"none",TRUE
+8,286,1,4,"conservative","lower working","female",38,"none",TRUE
+8,286,2,6,"conservative","lower working","female",38,"none",TRUE
+8,286,3,3,"conservative","lower working","female",38,"none",TRUE
+8,288,0,3,"labour","lower working","male",48,"other",FALSE
+8,288,1,3,"labour","lower working","male",48,"other",FALSE
+8,288,2,3,"other","lower working","male",48,"other",FALSE
+8,288,3,3,"labour","lower working","male",48,"other",FALSE
+8,295,0,5,"conservative","upper working","male",35,"other",FALSE
+8,295,1,5,"conservative","middle","male",35,"other",FALSE
+8,295,2,4,"conservative","middle","male",35,"other",FALSE
+8,295,3,3,"conservative","upper working","male",35,"other",FALSE
+8,296,0,0,"conservative","middle","male",73,"catholic",FALSE
+8,296,1,0,"conservative","middle","male",73,"catholic",FALSE
+8,296,2,1,"conservative","upper working","male",73,"catholic",FALSE
+8,296,3,0,"conservative","middle","male",73,"catholic",FALSE
+8,298,0,5,"labour","lower working","female",55,"none",TRUE
+8,298,1,4,"labour","lower working","female",55,"none",TRUE
+8,298,2,6,"labour","lower working","female",55,"none",TRUE
+8,298,3,5,"labour","lower working","female",55,"none",TRUE
+9,348,0,6,"conservative","lower working","male",31,"other",FALSE
+9,348,1,4,"conservative","lower working","male",31,"other",FALSE
+9,348,2,6,"conservative","lower working","male",31,"other",FALSE
+9,348,3,7,"liberal","lower working","male",31,"other",FALSE
+9,359,0,4,"labour","lower working","female",46,"other",FALSE
+9,359,1,4,"labour","lower working","female",46,"other",FALSE
+9,359,2,2,"labour","lower working","female",46,"other",FALSE
+9,359,3,2,"labour","lower working","female",46,"other",FALSE
+9,360,0,3,"labour","lower working","male",54,"other",FALSE
+9,360,1,2,"labour","middle","male",54,"other",FALSE
+9,360,2,5,"labour","lower working","male",54,"other",FALSE
+9,360,3,7,"labour","lower working","male",54,"other",FALSE
+10,396,0,4,"other","lower working","female",21,"none",TRUE
+10,396,1,3,"conservative","lower working","female",21,"none",TRUE
+10,396,2,7,"labour","lower working","female",21,"none",TRUE
+10,396,3,4,"labour","lower working","female",21,"none",TRUE
+10,411,0,5,"labour","lower working","female",23,"catholic",FALSE
+10,411,1,3,"labour","lower working","female",23,"catholic",FALSE
+10,411,2,3,"labour","lower working","female",23,"catholic",FALSE
+10,411,3,3,"labour","lower working","female",23,"catholic",FALSE
+10,412,0,3,"labour","lower working","male",20,"catholic",FALSE
+10,412,1,4,"labour","lower working","male",20,"catholic",FALSE
+10,412,2,3,"labour","lower working","male",20,"catholic",FALSE
+10,412,3,7,"labour","lower working","male",20,"catholic",FALSE
+10,414,0,3,"other","middle","male",25,"none",TRUE
+10,414,1,3,"liberal","middle","male",25,"none",TRUE
+10,414,2,3,"other","lower working","male",25,"none",TRUE
+10,414,3,2,"other","lower working","male",25,"none",TRUE
+11,452,0,3,"conservative","middle","female",67,"other",FALSE
+11,452,1,2,"conservative","upper working","female",67,"other",FALSE
+11,452,2,2,"conservative","lower working","female",67,"other",FALSE
+11,452,3,2,"conservative","upper working","female",67,"other",FALSE
+11,455,0,6,"liberal","middle","female",73,"other",FALSE
+11,455,1,7,"labour","middle","female",73,"other",FALSE
+11,455,2,5,"liberal","middle","female",73,"other",FALSE
+11,455,3,5,"labour","middle","female",73,"other",FALSE
+11,458,0,5,"labour","lower working","female",44,"other",FALSE
+11,458,1,3,"labour","lower working","female",44,"other",FALSE
+11,458,2,3,"labour","lower working","female",44,"other",FALSE
+11,458,3,3,"labour","lower working","female",44,"other",FALSE
+11,463,0,3,"labour","middle","male",57,"other",FALSE
+11,463,1,4,"labour","upper working","male",57,"other",FALSE
+11,463,2,2,"labour","upper working","male",57,"other",FALSE
+11,463,3,3,"liberal","upper working","male",57,"other",FALSE
+11,466,0,7,"conservative","middle","male",26,"other",FALSE
+11,466,1,7,"liberal","middle","male",26,"other",FALSE
+11,466,2,3,"conservative","middle","male",26,"other",FALSE
+11,466,3,6,"conservative","middle","male",26,"other",FALSE
+11,470,0,7,"labour","upper working","male",28,"none",TRUE
+11,470,1,7,"labour","middle","male",28,"none",TRUE
+11,470,2,7,"labour","middle","male",28,"none",TRUE
+11,470,3,6,"labour","middle","male",28,"none",TRUE
+11,471,0,6,"conservative","middle","male",35,"other",FALSE
+11,471,1,6,"conservative","middle","male",35,"other",FALSE
+11,471,2,7,"conservative","middle","male",35,"other",FALSE
+11,471,3,7,"conservative","middle","male",35,"other",FALSE
+12,522,0,6,"labour","upper working","female",33,"none",TRUE
+12,522,1,3,"labour","lower working","female",33,"none",TRUE
+12,522,2,4,"labour","lower working","female",33,"none",TRUE
+12,522,3,7,"labour","lower working","female",33,"none",TRUE
+12,530,0,4,"none","lower working","female",76,"other",FALSE
+12,530,1,2,"other","lower working","female",76,"other",FALSE
+12,530,2,4,"other","lower working","female",76,"other",FALSE
+12,530,3,4,"other","lower working","female",76,"other",FALSE
+12,540,0,4,"none","lower working","male",50,"protestant",FALSE
+12,540,1,3,"none","upper working","male",50,"protestant",FALSE
+12,540,2,7,"labour","lower working","male",50,"protestant",FALSE
+12,540,3,7,"other","lower working","male",50,"protestant",FALSE
+13,616,0,6,"labour","upper working","male",34,"none",TRUE
+13,616,1,7,"labour","upper working","male",34,"none",TRUE
+13,616,2,7,"labour","upper working","male",34,"none",TRUE
+13,616,3,7,"labour","upper working","male",34,"none",TRUE
+13,618,0,5,"liberal","lower working","female",34,"catholic",FALSE
+13,618,1,7,"labour","lower working","female",34,"catholic",FALSE
+13,618,2,7,"conservative","lower working","female",34,"catholic",FALSE
+13,618,3,7,"liberal","lower working","female",34,"catholic",FALSE
+13,626,0,6,"conservative","lower working","male",38,"protestant",FALSE
+13,626,1,3,"conservative","lower working","male",38,"protestant",FALSE
+13,626,2,4,"conservative","lower working","male",38,"protestant",FALSE
+13,626,3,6,"conservative","lower working","male",38,"protestant",FALSE
+13,628,0,3,"labour","lower working","female",25,"protestant",FALSE
+13,628,1,2,"labour","lower working","female",25,"protestant",FALSE
+13,628,2,3,"labour","lower working","female",25,"protestant",FALSE
+13,628,3,3,"labour","lower working","female",25,"protestant",FALSE
+14,661,0,5,"labour","lower working","male",50,"protestant",FALSE
+14,661,1,4,"labour","lower working","male",50,"protestant",FALSE
+14,661,2,6,"labour","lower working","male",50,"protestant",FALSE
+14,661,3,5,"labour","lower working","male",50,"protestant",FALSE
+14,662,0,3,"labour","upper working","male",19,"catholic",FALSE
+14,662,1,2,"labour","upper working","male",19,"catholic",FALSE
+14,662,2,3,"labour","upper working","male",19,"catholic",FALSE
+14,662,3,1,"labour","lower working","male",19,"catholic",FALSE
+14,669,0,2,"liberal","lower working","female",32,"other",FALSE
+14,669,1,1,"labour","upper working","female",32,"other",FALSE
+14,669,2,1,"liberal","upper working","female",32,"other",FALSE
+14,669,3,1,"liberal","lower working","female",32,"other",FALSE
+14,676,0,4,"liberal","lower working","female",42,"protestant",FALSE
+14,676,1,2,"liberal","lower working","female",42,"protestant",FALSE
+14,676,2,4,"labour","lower working","female",42,"protestant",FALSE
+14,676,3,4,"other","lower working","female",42,"protestant",FALSE
+14,677,0,3,"conservative","upper working","male",21,"none",TRUE
+14,677,1,3,"conservative","upper working","male",21,"none",TRUE
+14,677,2,2,"conservative","upper working","male",21,"none",TRUE
+14,677,3,3,"conservative","upper working","male",21,"none",TRUE
+14,682,0,3,"conservative","lower working","male",71,"protestant",FALSE
+14,682,1,3,"conservative","lower working","male",71,"protestant",FALSE
+14,682,2,4,"conservative","lower working","male",71,"protestant",FALSE
+14,682,3,7,"conservative","lower working","male",71,"protestant",FALSE
+14,686,0,7,"conservative","middle","male",19,"none",TRUE
+14,686,1,7,"conservative","middle","male",19,"none",TRUE
+14,686,2,6,"conservative","middle","male",19,"none",TRUE
+14,686,3,6,"conservative","middle","male",19,"none",TRUE
+14,688,0,6,"liberal","middle","male",49,"none",TRUE
+14,688,1,7,"liberal","middle","male",49,"none",TRUE
+14,688,2,6,"liberal","middle","male",49,"none",TRUE
+14,688,3,7,"liberal","middle","male",49,"none",TRUE
+14,689,0,5,"conservative","lower working","female",37,"none",TRUE
+14,689,1,5,"labour","lower working","female",37,"none",TRUE
+14,689,2,5,"labour","lower working","female",37,"none",TRUE
+14,689,3,4,"labour","lower working","female",37,"none",TRUE
+15,729,0,4,"labour","lower working","female",45,"protestant",FALSE
+15,729,1,4,"labour","lower working","female",45,"protestant",FALSE
+15,729,2,7,"labour","lower working","female",45,"protestant",FALSE
+15,729,3,4,"labour","lower working","female",45,"protestant",FALSE
+15,732,0,5,"none","upper working","male",23,"none",TRUE
+15,732,1,4,"conservative","upper working","male",23,"none",TRUE
+15,732,2,7,"conservative","upper working","male",23,"none",TRUE
+15,732,3,5,"conservative","upper working","male",23,"none",TRUE
+15,736,0,4,"labour","upper working","male",59,"none",TRUE
+15,736,1,3,"labour","lower working","male",59,"none",TRUE
+15,736,2,5,"labour","lower working","male",59,"none",TRUE
+15,736,3,4,"labour","lower working","male",59,"none",TRUE
+15,742,0,5,"none","middle","female",23,"none",TRUE
+15,742,1,3,"labour","middle","female",23,"none",TRUE
+15,742,2,5,"labour","middle","female",23,"none",TRUE
+15,742,3,3,"labour","middle","female",23,"none",TRUE
+16,781,0,4,"conservative","lower working","male",42,"none",TRUE
+16,781,1,3,"conservative","lower working","male",42,"none",TRUE
+16,781,2,3,"conservative","lower working","male",42,"none",TRUE
+16,781,3,3,"conservative","lower working","male",42,"none",TRUE
+16,789,0,3,"liberal","lower working","male",45,"none",TRUE
+16,789,1,3,"liberal","lower working","male",45,"none",TRUE
+16,789,2,4,"labour","lower working","male",45,"none",TRUE
+16,789,3,5,"liberal","lower working","male",45,"none",TRUE
+17,850,0,5,"conservative","upper working","male",80,"protestant",FALSE
+17,850,1,4,"conservative","lower working","male",80,"protestant",FALSE
+17,850,2,0,"conservative","middle","male",80,"protestant",FALSE
+17,850,3,7,"conservative","middle","male",80,"protestant",FALSE
+17,857,0,7,"none","lower working","male",49,"none",TRUE
+17,857,1,7,"labour","lower working","male",49,"none",TRUE
+17,857,2,7,"labour","lower working","male",49,"none",TRUE
+17,857,3,7,"labour","lower working","male",49,"none",TRUE
+17,869,0,5,"conservative","upper working","female",65,"protestant",FALSE
+17,869,1,7,"conservative","upper working","female",65,"protestant",FALSE
+17,869,2,4,"conservative","upper working","female",65,"protestant",FALSE
+17,869,3,6,"conservative","upper working","female",65,"protestant",FALSE
+18,910,0,6,"labour","lower working","female",61,"protestant",FALSE
+18,910,1,4,"labour","lower working","female",61,"protestant",FALSE
+18,910,2,7,"labour","lower working","female",61,"protestant",FALSE
+18,910,3,7,"labour","lower working","female",61,"protestant",FALSE
+18,916,0,6,"labour","lower working","male",30,"none",TRUE
+18,916,1,7,"labour","lower working","male",30,"none",TRUE
+18,916,2,4,"labour","lower working","male",30,"none",TRUE
+18,916,3,6,"conservative","lower working","male",30,"none",TRUE
+18,922,0,4,"labour","upper working","female",37,"other",FALSE
+18,922,1,3,"labour","lower working","female",37,"other",FALSE
+18,922,2,3,"labour","lower working","female",37,"other",FALSE
+18,922,3,3,"labour","lower working","female",37,"other",FALSE
+18,929,0,2,"labour","lower working","male",55,"catholic",FALSE
+18,929,1,3,"labour","lower working","male",55,"catholic",FALSE
+18,929,2,3,"labour","lower working","male",55,"catholic",FALSE
+18,929,3,3,"labour","lower working","male",55,"catholic",FALSE
+19,1024,0,7,"labour","upper working","female",29,"other",FALSE
+19,1024,1,7,"labour","upper working","female",29,"other",FALSE
+19,1024,2,7,"labour","middle","female",29,"other",FALSE
+19,1024,3,7,"labour","middle","female",29,"other",FALSE
+19,1029,0,6,"conservative","lower working","female",67,"protestant",FALSE
+19,1029,1,3,"conservative","lower working","female",67,"protestant",FALSE
+19,1029,2,4,"conservative","lower working","female",67,"protestant",FALSE
+19,1029,3,7,"conservative","lower working","female",67,"protestant",FALSE
+19,1034,0,7,"conservative","lower working","female",43,"protestant",FALSE
+19,1034,1,7,"conservative","upper working","female",43,"protestant",FALSE
+19,1034,2,7,"conservative","lower working","female",43,"protestant",FALSE
+19,1034,3,7,"conservative","lower working","female",43,"protestant",FALSE
+19,1036,0,7,"liberal","upper working","female",50,"protestant",FALSE
+19,1036,1,7,"labour","upper working","female",50,"protestant",FALSE
+19,1036,2,7,"labour","upper working","female",50,"protestant",FALSE
+19,1036,3,7,"labour","upper working","female",50,"protestant",FALSE
+19,1040,0,7,"conservative","lower working","male",60,"none",TRUE
+19,1040,1,7,"conservative","lower working","male",60,"none",TRUE
+19,1040,2,7,"conservative","lower working","male",60,"none",TRUE
+19,1040,3,7,"conservative","lower working","male",60,"none",TRUE
+19,1041,0,3,"conservative","middle","female",60,"protestant",FALSE
+19,1041,1,4,"conservative","middle","female",60,"protestant",FALSE
+19,1041,2,3,"conservative","middle","female",60,"protestant",FALSE
+19,1041,3,3,"conservative","middle","female",60,"protestant",FALSE
+19,1046,0,6,"liberal","middle","female",23,"other",FALSE
+19,1046,1,3,"liberal","middle","female",23,"other",FALSE
+19,1046,2,7,"liberal","middle","female",23,"other",FALSE
+19,1046,3,6,"liberal","lower working","female",23,"other",FALSE
+19,1050,0,5,"labour","lower working","female",48,"none",TRUE
+19,1050,1,4,"liberal","lower working","female",48,"none",TRUE
+19,1050,2,5,"liberal","lower working","female",48,"none",TRUE
+19,1050,3,4,"labour","lower working","female",48,"none",TRUE
+20,1082,0,2,"liberal","upper working","female",57,"catholic",FALSE
+20,1082,1,1,"liberal","upper working","female",57,"catholic",FALSE
+20,1082,2,1,"labour","upper working","female",57,"catholic",FALSE
+20,1082,3,2,"labour","upper working","female",57,"catholic",FALSE
+20,1090,0,5,"labour","lower working","female",45,"none",TRUE
+20,1090,1,3,"labour","lower working","female",45,"none",TRUE
+20,1090,2,4,"labour","lower working","female",45,"none",TRUE
+20,1090,3,3,"labour","lower working","female",45,"none",TRUE
+20,1093,0,7,"liberal","upper working","female",45,"none",TRUE
+20,1093,1,6,"other","lower working","female",45,"none",TRUE
+20,1093,2,6,"liberal","lower working","female",45,"none",TRUE
+20,1093,3,7,"liberal","lower working","female",45,"none",TRUE
+20,1096,0,7,"labour","middle","female",26,"none",TRUE
+20,1096,1,6,"labour","middle","female",26,"none",TRUE
+20,1096,2,7,"labour","middle","female",26,"none",TRUE
+20,1096,3,7,"liberal","middle","female",26,"none",TRUE
+20,1097,0,7,"liberal","upper working","female",56,"none",TRUE
+20,1097,1,7,"liberal","middle","female",56,"none",TRUE
+20,1097,2,7,"liberal","lower working","female",56,"none",TRUE
+20,1097,3,7,"other","lower working","female",56,"none",TRUE
+20,1100,0,4,"labour","lower working","male",31,"none",TRUE
+20,1100,1,3,"labour","lower working","male",31,"none",TRUE
+20,1100,2,5,"labour","lower working","male",31,"none",TRUE
+20,1100,3,4,"labour","lower working","male",31,"none",TRUE
+20,1102,0,4,"labour","upper working","female",64,"protestant",FALSE
+20,1102,1,6,"labour","lower working","female",64,"protestant",FALSE
+20,1102,2,2,"liberal","lower working","female",64,"protestant",FALSE
+20,1102,3,5,"liberal","upper working","female",64,"protestant",FALSE
+20,1105,0,7,"labour","lower working","male",67,"none",TRUE
+20,1105,1,5,"labour","lower working","male",67,"none",TRUE
+20,1105,2,7,"labour","lower working","male",67,"none",TRUE
+20,1105,3,7,"labour","lower working","male",67,"none",TRUE
+20,1106,0,4,"labour","lower working","female",47,"protestant",FALSE
+20,1106,1,3,"labour","upper working","female",47,"protestant",FALSE
+20,1106,2,3,"labour","lower working","female",47,"protestant",FALSE
+20,1106,3,3,"labour","lower working","female",47,"protestant",FALSE
+21,1144,0,2,"labour","lower working","male",37,"protestant",FALSE
+21,1144,1,3,"labour","lower working","male",37,"protestant",FALSE
+21,1144,2,5,"labour","lower working","male",37,"protestant",FALSE
+21,1144,3,7,"labour","lower working","male",37,"protestant",FALSE
+21,1153,0,7,"conservative","lower working","female",38,"protestant",FALSE
+21,1153,1,5,"conservative","lower working","female",38,"protestant",FALSE
+21,1153,2,7,"conservative","lower working","female",38,"protestant",FALSE
+21,1153,3,7,"conservative","lower working","female",38,"protestant",FALSE
+21,1154,0,7,"conservative","upper working","female",33,"protestant",FALSE
+21,1154,1,7,"conservative","upper working","female",33,"protestant",FALSE
+21,1154,2,7,"conservative","upper working","female",33,"protestant",FALSE
+21,1154,3,7,"conservative","middle","female",33,"protestant",FALSE
+22,1204,0,6,"liberal","lower working","female",32,"protestant",FALSE
+22,1204,1,5,"liberal","upper working","female",32,"protestant",FALSE
+22,1204,2,6,"liberal","upper working","female",32,"protestant",FALSE
+22,1204,3,6,"liberal","lower working","female",32,"protestant",FALSE
+22,1208,0,3,"liberal","lower working","female",55,"protestant",FALSE
+22,1208,1,3,"liberal","lower working","female",55,"protestant",FALSE
+22,1208,2,3,"liberal","lower working","female",55,"protestant",FALSE
+22,1208,3,7,"liberal","lower working","female",55,"protestant",FALSE
+22,1216,0,5,"conservative","lower working","female",80,"protestant",FALSE
+22,1216,1,5,"conservative","lower working","female",80,"protestant",FALSE
+22,1216,2,7,"conservative","lower working","female",80,"protestant",FALSE
+22,1216,3,7,"conservative","middle","female",80,"protestant",FALSE
+22,1225,0,7,"liberal","lower working","female",62,"other",FALSE
+22,1225,1,7,"liberal","lower working","female",62,"other",FALSE
+22,1225,2,6,"liberal","lower working","female",62,"other",FALSE
+22,1225,3,6,"liberal","lower working","female",62,"other",FALSE
+22,1228,0,7,"labour","middle","female",42,"protestant",FALSE
+22,1228,1,7,"labour","middle","female",42,"protestant",FALSE
+22,1228,2,7,"labour","middle","female",42,"protestant",FALSE
+22,1228,3,7,"labour","middle","female",42,"protestant",FALSE
+23,1278,0,3,"labour","upper working","female",25,"protestant",FALSE
+23,1278,1,3,"labour","lower working","female",25,"protestant",FALSE
+23,1278,2,5,"labour","lower working","female",25,"protestant",FALSE
+23,1278,3,6,"liberal","lower working","female",25,"protestant",FALSE
+24,1324,0,1,"none","lower working","female",30,"protestant",FALSE
+24,1324,1,1,"labour","lower working","female",30,"protestant",FALSE
+24,1324,2,5,"conservative","lower working","female",30,"protestant",FALSE
+24,1324,3,3,"none","lower working","female",30,"protestant",FALSE
+24,1326,0,7,"labour","lower working","female",60,"protestant",FALSE
+24,1326,1,3,"labour","lower working","female",60,"protestant",FALSE
+24,1326,2,4,"labour","lower working","female",60,"protestant",FALSE
+24,1326,3,5,"labour","lower working","female",60,"protestant",FALSE
+24,1337,0,6,"none","lower working","male",37,"none",TRUE
+24,1337,1,5,"labour","lower working","male",37,"none",TRUE
+24,1337,2,0,"labour","lower working","male",37,"none",TRUE
+24,1337,3,5,"liberal","lower working","male",37,"none",TRUE
+24,1348,0,6,"labour","upper working","female",79,"other",FALSE
+24,1348,1,4,"labour","middle","female",79,"other",FALSE
+24,1348,2,4,"labour","middle","female",79,"other",FALSE
+24,1348,3,5,"labour","upper working","female",79,"other",FALSE
+25,1382,0,3,"conservative","middle","male",65,"protestant",FALSE
+25,1382,1,3,"conservative","middle","male",65,"protestant",FALSE
+25,1382,2,3,"conservative","middle","male",65,"protestant",FALSE
+25,1382,3,3,"conservative","middle","male",65,"protestant",FALSE
+25,1388,0,4,"conservative","middle","female",63,"protestant",FALSE
+25,1388,1,3,"conservative","middle","female",63,"protestant",FALSE
+25,1388,2,5,"conservative","middle","female",63,"protestant",FALSE
+25,1388,3,6,"conservative","middle","female",63,"protestant",FALSE
+25,1393,0,4,"liberal","middle","female",30,"protestant",FALSE
+25,1393,1,3,"liberal","middle","female",30,"protestant",FALSE
+25,1393,2,4,"liberal","middle","female",30,"protestant",FALSE
+25,1393,3,6,"liberal","middle","female",30,"protestant",FALSE
+25,1394,0,7,"conservative","upper working","male",35,"protestant",FALSE
+25,1394,1,7,"conservative","upper working","male",35,"protestant",FALSE
+25,1394,2,7,"conservative","upper working","male",35,"protestant",FALSE
+25,1394,3,7,"conservative","upper working","male",35,"protestant",FALSE
+26,1450,0,5,"conservative","upper working","female",38,"protestant",FALSE
+26,1450,1,5,"conservative","upper working","female",38,"protestant",FALSE
+26,1450,2,5,"conservative","upper working","female",38,"protestant",FALSE
+26,1450,3,7,"conservative","upper working","female",38,"protestant",FALSE
+26,1453,0,7,"conservative","lower working","female",53,"protestant",FALSE
+26,1453,1,7,"conservative","lower working","female",53,"protestant",FALSE
+26,1453,2,7,"conservative","lower working","female",53,"protestant",FALSE
+26,1453,3,7,"liberal","lower working","female",53,"protestant",FALSE
+26,1460,0,3,"labour","upper working","male",39,"none",TRUE
+26,1460,1,3,"labour","upper working","male",39,"none",TRUE
+26,1460,2,3,"labour","upper working","male",39,"none",TRUE
+26,1460,3,3,"labour","lower working","male",39,"none",TRUE
+26,1462,0,3,"conservative","lower working","female",46,"protestant",FALSE
+26,1462,1,3,"liberal","lower working","female",46,"protestant",FALSE
+26,1462,2,3,"conservative","lower working","female",46,"protestant",FALSE
+26,1462,3,2,"liberal","lower working","female",46,"protestant",FALSE
+27,548,0,6,"labour","lower working","male",47,"other",FALSE
+27,548,1,3,"labour","lower working","male",47,"other",FALSE
+27,548,2,6,"labour","lower working","male",47,"other",FALSE
+27,548,3,7,"labour","lower working","male",47,"other",FALSE
+28,3061,0,5,"labour","lower working","female",29,"none",TRUE
+28,3061,1,3,"liberal","lower working","female",29,"none",TRUE
+28,3061,2,3,"labour","lower working","female",29,"none",TRUE
+28,3061,3,3,"labour","lower working","female",29,"none",TRUE
+28,3065,0,5,"conservative","upper working","male",53,"protestant",FALSE
+28,3065,1,5,"conservative","lower working","male",53,"protestant",FALSE
+28,3065,2,7,"conservative","upper working","male",53,"protestant",FALSE
+28,3065,3,7,"conservative","upper working","male",53,"protestant",FALSE
+28,3077,0,3,"conservative","lower working","female",58,"protestant",FALSE
+28,3077,1,3,"conservative","lower working","female",58,"protestant",FALSE
+28,3077,2,3,"conservative","lower working","female",58,"protestant",FALSE
+28,3077,3,3,"conservative","lower working","female",58,"protestant",FALSE
+28,3078,0,4,"none","lower working","female",38,"none",TRUE
+28,3078,1,4,"other","upper working","female",38,"none",TRUE
+28,3078,2,5,"other","lower working","female",38,"none",TRUE
+28,3078,3,7,"other","lower working","female",38,"none",TRUE
+28,3080,0,3,"conservative","middle","female",27,"none",TRUE
+28,3080,1,3,"conservative","middle","female",27,"none",TRUE
+28,3080,2,3,"conservative","upper working","female",27,"none",TRUE
+28,3080,3,3,"conservative","upper working","female",27,"none",TRUE
+28,3081,0,7,"labour","upper working","male",18,"none",TRUE
+28,3081,1,2,"labour","lower working","male",18,"none",TRUE
+28,3081,2,5,"labour","middle","male",18,"none",TRUE
+28,3081,3,4,"liberal","upper working","male",18,"none",TRUE
+28,3088,0,6,"liberal","lower working","female",36,"catholic",FALSE
+28,3088,1,4,"liberal","upper working","female",36,"catholic",FALSE
+28,3088,2,7,"liberal","upper working","female",36,"catholic",FALSE
+28,3088,3,6,"liberal","lower working","female",36,"catholic",FALSE
+28,3090,0,7,"conservative","upper working","female",34,"none",TRUE
+28,3090,1,7,"conservative","upper working","female",34,"none",TRUE
+28,3090,2,7,"conservative","upper working","female",34,"none",TRUE
+28,3090,3,7,"conservative","upper working","female",34,"none",TRUE
+29,1534,0,3,"conservative","lower working","male",38,"none",TRUE
+29,1534,1,6,"labour","lower working","male",38,"none",TRUE
+29,1534,2,7,"other","lower working","male",38,"none",TRUE
+29,1534,3,7,"other","upper working","male",38,"none",TRUE
+29,1547,0,5,"labour","lower working","female",25,"protestant",FALSE
+29,1547,1,3,"labour","lower working","female",25,"protestant",FALSE
+29,1547,2,5,"labour","lower working","female",25,"protestant",FALSE
+29,1547,3,5,"conservative","lower working","female",25,"protestant",FALSE
+29,1560,0,7,"labour","lower working","male",42,"protestant",FALSE
+29,1560,1,5,"labour","lower working","male",42,"protestant",FALSE
+29,1560,2,7,"labour","lower working","male",42,"protestant",FALSE
+29,1560,3,7,"labour","lower working","male",42,"protestant",FALSE
+30,1591,0,4,"labour","lower working","female",21,"none",TRUE
+30,1591,1,3,"labour","lower working","female",21,"none",TRUE
+30,1591,2,2,"labour","lower working","female",21,"none",TRUE
+30,1591,3,2,"labour","lower working","female",21,"none",TRUE
+30,1594,0,7,"liberal","upper working","female",38,"none",TRUE
+30,1594,1,7,"liberal","middle","female",38,"none",TRUE
+30,1594,2,7,"liberal","middle","female",38,"none",TRUE
+30,1594,3,7,"liberal","middle","female",38,"none",TRUE
+30,1600,0,7,"conservative","lower working","male",36,"protestant",FALSE
+30,1600,1,4,"conservative","upper working","male",36,"protestant",FALSE
+30,1600,2,5,"conservative","upper working","male",36,"protestant",FALSE
+30,1600,3,5,"conservative","upper working","male",36,"protestant",FALSE
+30,1602,0,7,"conservative","lower working","male",33,"none",TRUE
+30,1602,1,6,"conservative","lower working","male",33,"none",TRUE
+30,1602,2,7,"conservative","upper working","male",33,"none",TRUE
+30,1602,3,7,"conservative","lower working","male",33,"none",TRUE
+30,1607,0,7,"labour","lower working","male",22,"none",TRUE
+30,1607,1,3,"labour","lower working","male",22,"none",TRUE
+30,1607,2,3,"labour","upper working","male",22,"none",TRUE
+30,1607,3,6,"labour","lower working","male",22,"none",TRUE
+30,1608,0,7,"other","lower working","male",73,"none",TRUE
+30,1608,1,7,"labour","lower working","male",73,"none",TRUE
+30,1608,2,7,"labour","lower working","male",73,"none",TRUE
+30,1608,3,7,"labour","lower working","male",73,"none",TRUE
+30,1610,0,7,"conservative","upper working","male",29,"none",TRUE
+30,1610,1,7,"conservative","upper working","male",29,"none",TRUE
+30,1610,2,7,"conservative","upper working","male",29,"none",TRUE
+30,1610,3,7,"conservative","upper working","male",29,"none",TRUE
+31,1791,0,7,"liberal","upper working","male",56,"catholic",FALSE
+31,1791,1,7,"liberal","lower working","male",56,"catholic",FALSE
+31,1791,2,5,"liberal","upper working","male",56,"catholic",FALSE
+31,1791,3,7,"liberal","upper working","male",56,"catholic",FALSE
+32,3152,0,7,"labour","upper working","female",37,"protestant",FALSE
+32,3152,1,6,"labour","upper working","female",37,"protestant",FALSE
+32,3152,2,6,"labour","upper working","female",37,"protestant",FALSE
+32,3152,3,6,"labour","lower working","female",37,"protestant",FALSE
+32,3155,0,7,"labour","lower working","male",32,"none",TRUE
+32,3155,1,5,"labour","lower working","male",32,"none",TRUE
+32,3155,2,6,"labour","lower working","male",32,"none",TRUE
+32,3155,3,6,"labour","lower working","male",32,"none",TRUE
+32,3156,0,7,"labour","lower working","female",69,"protestant",FALSE
+32,3156,1,4,"labour","middle","female",69,"protestant",FALSE
+32,3156,2,3,"labour","lower working","female",69,"protestant",FALSE
+32,3156,3,7,"labour","lower working","female",69,"protestant",FALSE
+32,3163,0,7,"conservative","middle","male",42,"none",TRUE
+32,3163,1,4,"conservative","middle","male",42,"none",TRUE
+32,3163,2,3,"conservative","upper working","male",42,"none",TRUE
+32,3163,3,4,"conservative","upper working","male",42,"none",TRUE
+32,3164,0,5,"labour","upper working","male",56,"protestant",FALSE
+32,3164,1,7,"labour","lower working","male",56,"protestant",FALSE
+32,3164,2,7,"labour","upper working","male",56,"protestant",FALSE
+32,3164,3,7,"liberal","upper working","male",56,"protestant",FALSE
+32,3171,0,4,"conservative","lower working","female",51,"protestant",FALSE
+32,3171,1,3,"conservative","lower working","female",51,"protestant",FALSE
+32,3171,2,3,"conservative","lower working","female",51,"protestant",FALSE
+32,3171,3,5,"conservative","lower working","female",51,"protestant",FALSE
+32,3174,0,5,"conservative","lower working","female",21,"none",TRUE
+32,3174,1,7,"labour","lower working","female",21,"none",TRUE
+32,3174,2,3,"labour","lower working","female",21,"none",TRUE
+32,3174,3,6,"labour","lower working","female",21,"none",TRUE
+32,3179,0,5,"labour","upper working","female",45,"protestant",FALSE
+32,3179,1,3,"labour","upper working","female",45,"protestant",FALSE
+32,3179,2,5,"labour","upper working","female",45,"protestant",FALSE
+32,3179,3,3,"labour","middle","female",45,"protestant",FALSE
+32,3180,0,4,"liberal","lower working","male",75,"protestant",FALSE
+32,3180,1,2,"liberal","lower working","male",75,"protestant",FALSE
+32,3180,2,3,"liberal","upper working","male",75,"protestant",FALSE
+32,3180,3,7,"liberal","lower working","male",75,"protestant",FALSE
+33,1681,0,3,"liberal","lower working","male",28,"catholic",FALSE
+33,1681,1,4,"liberal","lower working","male",28,"catholic",FALSE
+33,1681,2,4,"liberal","lower working","male",28,"catholic",FALSE
+33,1681,3,4,"liberal","lower working","male",28,"catholic",FALSE
+33,1682,0,6,"conservative","middle","male",34,"none",TRUE
+33,1682,1,6,"liberal","middle","male",34,"none",TRUE
+33,1682,2,7,"liberal","middle","male",34,"none",TRUE
+33,1682,3,7,"liberal","middle","male",34,"none",TRUE
+33,1685,0,3,"conservative","lower working","female",24,"none",TRUE
+33,1685,1,3,"conservative","upper working","female",24,"none",TRUE
+33,1685,2,5,"conservative","upper working","female",24,"none",TRUE
+33,1685,3,3,"liberal","lower working","female",24,"none",TRUE
+33,1686,0,7,"liberal","middle","female",36,"none",TRUE
+33,1686,1,6,"liberal","middle","female",36,"none",TRUE
+33,1686,2,7,"liberal","middle","female",36,"none",TRUE
+33,1686,3,6,"liberal","middle","female",36,"none",TRUE
+33,1688,0,5,"conservative","upper working","male",25,"none",TRUE
+33,1688,1,7,"conservative","lower working","male",25,"none",TRUE
+33,1688,2,3,"conservative","upper working","male",25,"none",TRUE
+33,1688,3,7,"conservative","upper working","male",25,"none",TRUE
+33,1690,0,2,"conservative","middle","male",25,"protestant",FALSE
+33,1690,1,2,"conservative","middle","male",25,"protestant",FALSE
+33,1690,2,3,"liberal","middle","male",25,"protestant",FALSE
+33,1690,3,2,"liberal","upper working","male",25,"protestant",FALSE
+33,1694,0,3,"conservative","upper working","female",60,"protestant",FALSE
+33,1694,1,3,"conservative","middle","female",60,"protestant",FALSE
+33,1694,2,3,"conservative","upper working","female",60,"protestant",FALSE
+33,1694,3,3,"conservative","middle","female",60,"protestant",FALSE
+33,1697,0,3,"liberal","middle","female",35,"other",FALSE
+33,1697,1,2,"liberal","middle","female",35,"other",FALSE
+33,1697,2,2,"liberal","middle","female",35,"other",FALSE
+33,1697,3,1,"liberal","middle","female",35,"other",FALSE
+34,1741,0,4,"conservative","middle","female",63,"catholic",FALSE
+34,1741,1,1,"conservative","middle","female",63,"catholic",FALSE
+34,1741,2,2,"conservative","middle","female",63,"catholic",FALSE
+34,1741,3,1,"conservative","lower working","female",63,"catholic",FALSE
+34,1746,0,5,"labour","lower working","male",46,"none",TRUE
+34,1746,1,3,"labour","lower working","male",46,"none",TRUE
+34,1746,2,6,"labour","lower working","male",46,"none",TRUE
+34,1746,3,5,"labour","lower working","male",46,"none",TRUE
+34,1750,0,7,"liberal","middle","male",48,"protestant",FALSE
+34,1750,1,7,"liberal","middle","male",48,"protestant",FALSE
+34,1750,2,5,"liberal","middle","male",48,"protestant",FALSE
+34,1750,3,4,"liberal","middle","male",48,"protestant",FALSE
+34,1754,0,5,"liberal","upper working","female",62,"protestant",FALSE
+34,1754,1,3,"liberal","lower working","female",62,"protestant",FALSE
+34,1754,2,4,"liberal","lower working","female",62,"protestant",FALSE
+34,1754,3,4,"liberal","lower working","female",62,"protestant",FALSE
+35,1834,0,3,"conservative","middle","male",49,"other",FALSE
+35,1834,1,2,"conservative","middle","male",49,"other",FALSE
+35,1834,2,6,"conservative","middle","male",49,"other",FALSE
+35,1834,3,6,"conservative","middle","male",49,"other",FALSE
+35,1836,0,4,"liberal","upper working","male",24,"protestant",FALSE
+35,1836,1,3,"labour","upper working","male",24,"protestant",FALSE
+35,1836,2,4,"liberal","upper working","male",24,"protestant",FALSE
+35,1836,3,5,"liberal","upper working","male",24,"protestant",FALSE
+35,1838,0,7,"none","lower working","female",27,"none",TRUE
+35,1838,1,5,"liberal","lower working","female",27,"none",TRUE
+35,1838,2,7,"liberal","lower working","female",27,"none",TRUE
+35,1838,3,7,"liberal","lower working","female",27,"none",TRUE
+35,1839,0,4,"conservative","middle","female",74,"other",FALSE
+35,1839,1,6,"conservative","middle","female",74,"other",FALSE
+35,1839,2,7,"conservative","middle","female",74,"other",FALSE
+35,1839,3,3,"conservative","middle","female",74,"other",FALSE
+35,1843,0,4,"labour","upper working","male",25,"none",TRUE
+35,1843,1,3,"labour","upper working","male",25,"none",TRUE
+35,1843,2,6,"labour","upper working","male",25,"none",TRUE
+35,1843,3,4,"labour","upper working","male",25,"none",TRUE
+35,1846,0,3,"liberal","middle","male",39,"none",TRUE
+35,1846,1,3,"liberal","middle","male",39,"none",TRUE
+35,1846,2,3,"liberal","middle","male",39,"none",TRUE
+35,1846,3,3,"liberal","middle","male",39,"none",TRUE
+35,1851,0,7,"labour","middle","female",26,"none",TRUE
+35,1851,1,7,"labour","middle","female",26,"none",TRUE
+35,1851,2,7,"labour","middle","female",26,"none",TRUE
+35,1851,3,7,"labour","middle","female",26,"none",TRUE
+35,1858,0,3,"none","upper working","female",60,"other",FALSE
+35,1858,1,3,"labour","upper working","female",60,"other",FALSE
+35,1858,2,3,"other","upper working","female",60,"other",FALSE
+35,1858,3,3,"labour","upper working","female",60,"other",FALSE
+36,1892,0,7,"liberal","lower working","male",31,"protestant",FALSE
+36,1892,1,3,"conservative","lower working","male",31,"protestant",FALSE
+36,1892,2,3,"liberal","lower working","male",31,"protestant",FALSE
+36,1892,3,7,"liberal","upper working","male",31,"protestant",FALSE
+36,1895,0,3,"liberal","upper working","female",52,"protestant",FALSE
+36,1895,1,3,"liberal","upper working","female",52,"protestant",FALSE
+36,1895,2,3,"liberal","upper working","female",52,"protestant",FALSE
+36,1895,3,4,"liberal","upper working","female",52,"protestant",FALSE
+36,1900,0,7,"labour","lower working","male",26,"protestant",FALSE
+36,1900,1,7,"none","lower working","male",26,"protestant",FALSE
+36,1900,2,6,"liberal","lower working","male",26,"protestant",FALSE
+36,1900,3,7,"liberal","lower working","male",26,"protestant",FALSE
+36,1906,0,5,"conservative","middle","female",52,"protestant",FALSE
+36,1906,1,3,"conservative","middle","female",52,"protestant",FALSE
+36,1906,2,4,"conservative","middle","female",52,"protestant",FALSE
+36,1906,3,4,"conservative","middle","female",52,"protestant",FALSE
+36,1907,0,7,"labour","lower working","male",78,"none",TRUE
+36,1907,1,5,"labour","lower working","male",78,"none",TRUE
+36,1907,2,7,"labour","lower working","male",78,"none",TRUE
+36,1907,3,6,"labour","upper working","male",78,"none",TRUE
+36,1910,0,7,"conservative","lower working","male",50,"protestant",FALSE
+36,1910,1,2,"conservative","upper working","male",50,"protestant",FALSE
+36,1910,2,7,"conservative","lower working","male",50,"protestant",FALSE
+36,1910,3,6,"conservative","upper working","male",50,"protestant",FALSE
+36,1916,0,3,"conservative","lower working","male",48,"other",FALSE
+36,1916,1,3,"conservative","middle","male",48,"other",FALSE
+36,1916,2,3,"conservative","lower working","male",48,"other",FALSE
+36,1916,3,3,"liberal","lower working","male",48,"other",FALSE
+37,1954,0,3,"conservative","middle","female",40,"protestant",FALSE
+37,1954,1,7,"conservative","middle","female",40,"protestant",FALSE
+37,1954,2,4,"conservative","middle","female",40,"protestant",FALSE
+37,1954,3,5,"conservative","middle","female",40,"protestant",FALSE
+37,1955,0,6,"liberal","upper working","male",40,"other",FALSE
+37,1955,1,6,"none","upper working","male",40,"other",FALSE
+37,1955,2,6,"liberal","upper working","male",40,"other",FALSE
+37,1955,3,6,"liberal","upper working","male",40,"other",FALSE
+37,1967,0,4,"labour","lower working","female",21,"protestant",FALSE
+37,1967,1,6,"labour","lower working","female",21,"protestant",FALSE
+37,1967,2,6,"labour","lower working","female",21,"protestant",FALSE
+37,1967,3,5,"labour","upper working","female",21,"protestant",FALSE
+37,1968,0,7,"liberal","lower working","female",35,"protestant",FALSE
+37,1968,1,7,"liberal","lower working","female",35,"protestant",FALSE
+37,1968,2,7,"liberal","lower working","female",35,"protestant",FALSE
+37,1968,3,7,"liberal","upper working","female",35,"protestant",FALSE
+37,1975,0,7,"liberal","middle","male",37,"protestant",FALSE
+37,1975,1,7,"liberal","middle","male",37,"protestant",FALSE
+37,1975,2,7,"liberal","middle","male",37,"protestant",FALSE
+37,1975,3,7,"liberal","middle","male",37,"protestant",FALSE
+37,1979,0,4,"labour","lower working","male",68,"catholic",FALSE
+37,1979,1,3,"labour","lower working","male",68,"catholic",FALSE
+37,1979,2,4,"labour","lower working","male",68,"catholic",FALSE
+37,1979,3,3,"labour","lower working","male",68,"catholic",FALSE
+38,2019,0,4,"conservative","upper working","female",43,"protestant",FALSE
+38,2019,1,3,"conservative","upper working","female",43,"protestant",FALSE
+38,2019,2,2,"conservative","upper working","female",43,"protestant",FALSE
+38,2019,3,6,"labour","upper working","female",43,"protestant",FALSE
+38,2020,0,7,"conservative","middle","female",20,"none",TRUE
+38,2020,1,7,"conservative","upper working","female",20,"none",TRUE
+38,2020,2,7,"conservative","upper working","female",20,"none",TRUE
+38,2020,3,7,"conservative","upper working","female",20,"none",TRUE
+38,2031,0,7,"conservative","middle","female",46,"protestant",FALSE
+38,2031,1,3,"conservative","middle","female",46,"protestant",FALSE
+38,2031,2,3,"liberal","middle","female",46,"protestant",FALSE
+38,2031,3,6,"conservative","middle","female",46,"protestant",FALSE
+38,2032,0,7,"conservative","middle","female",53,"none",TRUE
+38,2032,1,7,"conservative","upper working","female",53,"none",TRUE
+38,2032,2,7,"conservative","middle","female",53,"none",TRUE
+38,2032,3,7,"conservative","middle","female",53,"none",TRUE
+39,2101,0,4,"conservative","upper working","male",66,"protestant",FALSE
+39,2101,1,4,"conservative","upper working","male",66,"protestant",FALSE
+39,2101,2,3,"conservative","middle","male",66,"protestant",FALSE
+39,2101,3,6,"conservative","upper working","male",66,"protestant",FALSE
+39,2106,0,7,"conservative","middle","male",51,"none",TRUE
+39,2106,1,7,"conservative","middle","male",51,"none",TRUE
+39,2106,2,7,"conservative","middle","male",51,"none",TRUE
+39,2106,3,7,"conservative","middle","male",51,"none",TRUE
+39,2117,0,6,"liberal","lower working","male",49,"protestant",FALSE
+39,2117,1,4,"liberal","lower working","male",49,"protestant",FALSE
+39,2117,2,6,"liberal","lower working","male",49,"protestant",FALSE
+39,2117,3,6,"liberal","upper working","male",49,"protestant",FALSE
+39,2121,0,3,"labour","lower working","female",74,"protestant",FALSE
+39,2121,1,4,"labour","lower working","female",74,"protestant",FALSE
+39,2121,2,4,"labour","lower working","female",74,"protestant",FALSE
+39,2121,3,3,"labour","lower working","female",74,"protestant",FALSE
+39,2128,0,7,"conservative","upper working","female",58,"none",TRUE
+39,2128,1,7,"conservative","upper working","female",58,"none",TRUE
+39,2128,2,7,"conservative","upper working","female",58,"none",TRUE
+39,2128,3,7,"conservative","lower working","female",58,"none",TRUE
+40,2202,0,7,"labour","lower working","female",39,"protestant",FALSE
+40,2202,1,3,"labour","lower working","female",39,"protestant",FALSE
+40,2202,2,7,"liberal","lower working","female",39,"protestant",FALSE
+40,2202,3,7,"liberal","lower working","female",39,"protestant",FALSE
+40,2211,0,3,"conservative","upper working","female",66,"other",FALSE
+40,2211,1,3,"conservative","lower working","female",66,"other",FALSE
+40,2211,2,3,"conservative","lower working","female",66,"other",FALSE
+40,2211,3,6,"conservative","lower working","female",66,"other",FALSE
+40,2212,0,5,"labour","lower working","female",21,"none",TRUE
+40,2212,1,6,"labour","lower working","female",21,"none",TRUE
+40,2212,2,7,"labour","lower working","female",21,"none",TRUE
+40,2212,3,6,"labour","lower working","female",21,"none",TRUE
+40,2214,0,5,"none","upper working","female",27,"protestant",FALSE
+40,2214,1,4,"other","upper working","female",27,"protestant",FALSE
+40,2214,2,3,"other","upper working","female",27,"protestant",FALSE
+40,2214,3,6,"other","lower working","female",27,"protestant",FALSE
+40,2216,0,7,"labour","lower working","male",40,"none",TRUE
+40,2216,1,7,"labour","lower working","male",40,"none",TRUE
+40,2216,2,7,"labour","lower working","male",40,"none",TRUE
+40,2216,3,5,"labour","lower working","male",40,"none",TRUE
+40,2220,0,7,"labour","upper working","male",73,"none",TRUE
+40,2220,1,3,"labour","upper working","male",73,"none",TRUE
+40,2220,2,7,"labour","lower working","male",73,"none",TRUE
+40,2220,3,7,"labour","upper working","male",73,"none",TRUE
+41,2251,0,5,"labour","middle","female",70,"other",FALSE
+41,2251,1,3,"labour","upper working","female",70,"other",FALSE
+41,2251,2,3,"labour","upper working","female",70,"other",FALSE
+41,2251,3,3,"labour","middle","female",70,"other",FALSE
+41,2254,0,3,"liberal","upper working","female",51,"protestant",FALSE
+41,2254,1,3,"liberal","lower working","female",51,"protestant",FALSE
+41,2254,2,3,"liberal","upper working","female",51,"protestant",FALSE
+41,2254,3,4,"liberal","lower working","female",51,"protestant",FALSE
+41,2255,0,3,"conservative","middle","female",65,"protestant",FALSE
+41,2255,1,2,"conservative","middle","female",65,"protestant",FALSE
+41,2255,2,4,"conservative","middle","female",65,"protestant",FALSE
+41,2255,3,3,"liberal","middle","female",65,"protestant",FALSE
+41,2256,0,7,"labour","middle","male",51,"none",TRUE
+41,2256,1,6,"labour","middle","male",51,"none",TRUE
+41,2256,2,7,"labour","middle","male",51,"none",TRUE
+41,2256,3,7,"labour","middle","male",51,"none",TRUE
+41,2258,0,6,"conservative","upper working","female",49,"protestant",FALSE
+41,2258,1,3,"conservative","upper working","female",49,"protestant",FALSE
+41,2258,2,6,"conservative","lower working","female",49,"protestant",FALSE
+41,2258,3,6,"conservative","lower working","female",49,"protestant",FALSE
+41,2263,0,6,"conservative","upper working","female",49,"protestant",FALSE
+41,2263,1,3,"conservative","lower working","female",49,"protestant",FALSE
+41,2263,2,4,"conservative","upper working","female",49,"protestant",FALSE
+41,2263,3,5,"conservative","middle","female",49,"protestant",FALSE
+41,2268,0,3,"conservative","lower working","male",71,"other",FALSE
+41,2268,1,2,"conservative","lower working","male",71,"other",FALSE
+41,2268,2,5,"conservative","upper working","male",71,"other",FALSE
+41,2268,3,6,"conservative","lower working","male",71,"other",FALSE
+41,2271,0,7,"liberal","middle","female",23,"other",FALSE
+41,2271,1,6,"liberal","middle","female",23,"other",FALSE
+41,2271,2,7,"liberal","middle","female",23,"other",FALSE
+41,2271,3,6,"liberal","middle","female",23,"other",FALSE
+42,2315,0,2,"conservative","upper working","female",38,"protestant",FALSE
+42,2315,1,3,"conservative","upper working","female",38,"protestant",FALSE
+42,2315,2,3,"conservative","upper working","female",38,"protestant",FALSE
+42,2315,3,3,"conservative","upper working","female",38,"protestant",FALSE
+42,2340,0,4,"labour","lower working","female",21,"none",TRUE
+42,2340,1,5,"conservative","lower working","female",21,"none",TRUE
+42,2340,2,3,"conservative","lower working","female",21,"none",TRUE
+42,2340,3,2,"conservative","lower working","female",21,"none",TRUE
+43,2374,0,4,"conservative","middle","female",31,"protestant",FALSE
+43,2374,1,3,"conservative","middle","female",31,"protestant",FALSE
+43,2374,2,3,"liberal","upper working","female",31,"protestant",FALSE
+43,2374,3,3,"liberal","lower working","female",31,"protestant",FALSE
+43,2379,0,3,"liberal","upper working","female",41,"protestant",FALSE
+43,2379,1,3,"liberal","lower working","female",41,"protestant",FALSE
+43,2379,2,3,"liberal","lower working","female",41,"protestant",FALSE
+43,2379,3,3,"liberal","lower working","female",41,"protestant",FALSE
+43,2383,0,6,"conservative","middle","male",22,"none",TRUE
+43,2383,1,6,"conservative","middle","male",22,"none",TRUE
+43,2383,2,6,"conservative","upper working","male",22,"none",TRUE
+43,2383,3,7,"conservative","middle","male",22,"none",TRUE
+43,2387,0,5,"labour","upper working","female",46,"protestant",FALSE
+43,2387,1,5,"labour","upper working","female",46,"protestant",FALSE
+43,2387,2,3,"labour","middle","female",46,"protestant",FALSE
+43,2387,3,5,"labour","middle","female",46,"protestant",FALSE
+44,2461,0,4,"liberal","upper working","female",34,"protestant",FALSE
+44,2461,1,2,"liberal","middle","female",34,"protestant",FALSE
+44,2461,2,3,"liberal","middle","female",34,"protestant",FALSE
+44,2461,3,5,"liberal","middle","female",34,"protestant",FALSE
+44,2464,0,4,"conservative","lower working","female",58,"protestant",FALSE
+44,2464,1,3,"conservative","lower working","female",58,"protestant",FALSE
+44,2464,2,3,"conservative","upper working","female",58,"protestant",FALSE
+44,2464,3,3,"conservative","upper working","female",58,"protestant",FALSE
+44,2465,0,5,"conservative","middle","male",39,"protestant",FALSE
+44,2465,1,4,"conservative","middle","male",39,"protestant",FALSE
+44,2465,2,7,"conservative","middle","male",39,"protestant",FALSE
+44,2465,3,7,"conservative","middle","male",39,"protestant",FALSE
+44,2468,0,7,"conservative","lower working","male",51,"protestant",FALSE
+44,2468,1,7,"conservative","lower working","male",51,"protestant",FALSE
+44,2468,2,7,"conservative","lower working","male",51,"protestant",FALSE
+44,2468,3,7,"conservative","lower working","male",51,"protestant",FALSE
+44,2472,0,4,"liberal","upper working","female",34,"none",TRUE
+44,2472,1,3,"liberal","lower working","female",34,"none",TRUE
+44,2472,2,3,"liberal","middle","female",34,"none",TRUE
+44,2472,3,3,"liberal","middle","female",34,"none",TRUE
+44,2474,0,1,"conservative","middle","male",29,"none",TRUE
+44,2474,1,1,"conservative","lower working","male",29,"none",TRUE
+44,2474,2,1,"conservative","lower working","male",29,"none",TRUE
+44,2474,3,1,"conservative","upper working","male",29,"none",TRUE
+44,2480,0,7,"none","lower working","male",53,"protestant",FALSE
+44,2480,1,7,"none","lower working","male",53,"protestant",FALSE
+44,2480,2,7,"other","upper working","male",53,"protestant",FALSE
+44,2480,3,7,"liberal","lower working","male",53,"protestant",FALSE
+44,2485,0,3,"labour","lower working","female",52,"catholic",FALSE
+44,2485,1,2,"labour","lower working","female",52,"catholic",FALSE
+44,2485,2,7,"labour","lower working","female",52,"catholic",FALSE
+44,2485,3,3,"labour","lower working","female",52,"catholic",FALSE
+44,2488,0,3,"conservative","upper working","female",24,"protestant",FALSE
+44,2488,1,3,"conservative","upper working","female",24,"protestant",FALSE
+44,2488,2,4,"conservative","upper working","female",24,"protestant",FALSE
+44,2488,3,4,"conservative","upper working","female",24,"protestant",FALSE
+44,2489,0,3,"conservative","middle","female",39,"none",TRUE
+44,2489,1,7,"conservative","middle","female",39,"none",TRUE
+44,2489,2,7,"conservative","middle","female",39,"none",TRUE
+44,2489,3,6,"conservative","middle","female",39,"none",TRUE
+45,2521,0,3,"labour","lower working","male",40,"other",FALSE
+45,2521,1,3,"labour","lower working","male",40,"other",FALSE
+45,2521,2,1,"labour","lower working","male",40,"other",FALSE
+45,2521,3,4,"labour","lower working","male",40,"other",FALSE
+45,2524,0,7,"labour","lower working","female",25,"protestant",FALSE
+45,2524,1,6,"labour","lower working","female",25,"protestant",FALSE
+45,2524,2,6,"labour","lower working","female",25,"protestant",FALSE
+45,2524,3,7,"labour","lower working","female",25,"protestant",FALSE
+45,2526,0,7,"conservative","middle","female",39,"protestant",FALSE
+45,2526,1,7,"conservative","middle","female",39,"protestant",FALSE
+45,2526,2,7,"conservative","upper working","female",39,"protestant",FALSE
+45,2526,3,7,"conservative","upper working","female",39,"protestant",FALSE
+45,2530,0,5,"conservative","upper working","male",42,"protestant",FALSE
+45,2530,1,3,"conservative","upper working","male",42,"protestant",FALSE
+45,2530,2,4,"conservative","upper working","male",42,"protestant",FALSE
+45,2530,3,5,"conservative","middle","male",42,"protestant",FALSE
+45,2534,0,7,"none","lower working","male",19,"none",TRUE
+45,2534,1,2,"other","lower working","male",19,"none",TRUE
+45,2534,2,3,"other","lower working","male",19,"none",TRUE
+45,2534,3,7,"other","lower working","male",19,"none",TRUE
+45,2537,0,7,"conservative","lower working","female",35,"protestant",FALSE
+45,2537,1,3,"conservative","lower working","female",35,"protestant",FALSE
+45,2537,2,3,"conservative","lower working","female",35,"protestant",FALSE
+45,2537,3,3,"conservative","lower working","female",35,"protestant",FALSE
+45,2541,0,4,"conservative","upper working","female",29,"protestant",FALSE
+45,2541,1,3,"conservative","middle","female",29,"protestant",FALSE
+45,2541,2,7,"conservative","upper working","female",29,"protestant",FALSE
+45,2541,3,5,"liberal","upper working","female",29,"protestant",FALSE
+45,2542,0,7,"liberal","lower working","female",37,"none",TRUE
+45,2542,1,5,"liberal","upper working","female",37,"none",TRUE
+45,2542,2,6,"liberal","lower working","female",37,"none",TRUE
+45,2542,3,6,"liberal","middle","female",37,"none",TRUE
+46,2614,0,7,"conservative","middle","male",36,"protestant",FALSE
+46,2614,1,7,"conservative","middle","male",36,"protestant",FALSE
+46,2614,2,7,"conservative","middle","male",36,"protestant",FALSE
+46,2614,3,7,"conservative","middle","male",36,"protestant",FALSE
+46,2627,0,7,"none","middle","female",25,"none",TRUE
+46,2627,1,7,"other","middle","female",25,"none",TRUE
+46,2627,2,7,"other","middle","female",25,"none",TRUE
+46,2627,3,7,"other","middle","female",25,"none",TRUE
+46,2639,0,7,"conservative","middle","male",40,"other",FALSE
+46,2639,1,4,"conservative","middle","male",40,"other",FALSE
+46,2639,2,6,"conservative","middle","male",40,"other",FALSE
+46,2639,3,6,"conservative","middle","male",40,"other",FALSE
+46,2640,0,3,"conservative","middle","female",51,"other",FALSE
+46,2640,1,7,"liberal","middle","female",51,"other",FALSE
+46,2640,2,7,"conservative","middle","female",51,"other",FALSE
+46,2640,3,7,"conservative","middle","female",51,"other",FALSE
+47,2672,0,6,"conservative","upper working","male",31,"protestant",FALSE
+47,2672,1,7,"conservative","lower working","male",31,"protestant",FALSE
+47,2672,2,7,"conservative","lower working","male",31,"protestant",FALSE
+47,2672,3,3,"conservative","lower working","male",31,"protestant",FALSE
+47,2679,0,6,"conservative","middle","female",69,"protestant",FALSE
+47,2679,1,7,"conservative","middle","female",69,"protestant",FALSE
+47,2679,2,5,"conservative","middle","female",69,"protestant",FALSE
+47,2679,3,6,"conservative","middle","female",69,"protestant",FALSE
+47,2694,0,7,"conservative","middle","male",63,"protestant",FALSE
+47,2694,1,7,"conservative","middle","male",63,"protestant",FALSE
+47,2694,2,7,"conservative","middle","male",63,"protestant",FALSE
+47,2694,3,7,"conservative","middle","male",63,"protestant",FALSE
+47,2698,0,5,"conservative","upper working","female",58,"protestant",FALSE
+47,2698,1,7,"conservative","upper working","female",58,"protestant",FALSE
+47,2698,2,7,"conservative","upper working","female",58,"protestant",FALSE
+47,2698,3,6,"conservative","upper working","female",58,"protestant",FALSE
+47,2700,0,7,"conservative","middle","male",37,"none",TRUE
+47,2700,1,6,"conservative","middle","male",37,"none",TRUE
+47,2700,2,7,"conservative","middle","male",37,"none",TRUE
+47,2700,3,7,"conservative","middle","male",37,"none",TRUE
+48,2770,0,2,"conservative","middle","male",35,"other",FALSE
+48,2770,1,2,"conservative","middle","male",35,"other",FALSE
+48,2770,2,2,"conservative","middle","male",35,"other",FALSE
+48,2770,3,2,"liberal","middle","male",35,"other",FALSE
+48,2780,0,6,"conservative","middle","female",24,"none",TRUE
+48,2780,1,4,"conservative","middle","female",24,"none",TRUE
+48,2780,2,5,"conservative","middle","female",24,"none",TRUE
+48,2780,3,5,"conservative","middle","female",24,"none",TRUE
+49,2832,0,6,"liberal","middle","female",24,"other",FALSE
+49,2832,1,3,"liberal","middle","female",24,"other",FALSE
+49,2832,2,4,"liberal","middle","female",24,"other",FALSE
+49,2832,3,4,"liberal","middle","female",24,"other",FALSE
+49,2834,0,7,"other","lower working","female",36,"none",TRUE
+49,2834,1,4,"liberal","lower working","female",36,"none",TRUE
+49,2834,2,4,"labour","lower working","female",36,"none",TRUE
+49,2834,3,6,"labour","lower working","female",36,"none",TRUE
+49,2836,0,7,"liberal","lower working","male",54,"protestant",FALSE
+49,2836,1,7,"liberal","lower working","male",54,"protestant",FALSE
+49,2836,2,6,"liberal","lower working","male",54,"protestant",FALSE
+49,2836,3,6,"liberal","lower working","male",54,"protestant",FALSE
+49,2837,0,7,"conservative","middle","female",28,"other",FALSE
+49,2837,1,7,"conservative","middle","female",28,"other",FALSE
+49,2837,2,6,"conservative","middle","female",28,"other",FALSE
+49,2837,3,7,"conservative","middle","female",28,"other",FALSE
+49,2849,0,7,"labour","upper working","female",36,"protestant",FALSE
+49,2849,1,7,"labour","lower working","female",36,"protestant",FALSE
+49,2849,2,7,"labour","lower working","female",36,"protestant",FALSE
+49,2849,3,7,"labour","lower working","female",36,"protestant",FALSE
+50,2888,0,7,"liberal","middle","male",51,"none",TRUE
+50,2888,1,7,"liberal","middle","male",51,"none",TRUE
+50,2888,2,7,"liberal","middle","male",51,"none",TRUE
+50,2888,3,7,"liberal","middle","male",51,"none",TRUE
+50,2890,0,7,"liberal","lower working","male",40,"protestant",FALSE
+50,2890,1,5,"liberal","lower working","male",40,"protestant",FALSE
+50,2890,2,3,"liberal","upper working","male",40,"protestant",FALSE
+50,2890,3,6,"liberal","lower working","male",40,"protestant",FALSE
+50,2892,0,7,"conservative","upper working","female",25,"none",TRUE
+50,2892,1,7,"conservative","lower working","female",25,"none",TRUE
+50,2892,2,6,"conservative","upper working","female",25,"none",TRUE
+50,2892,3,7,"conservative","upper working","female",25,"none",TRUE
+50,2904,0,7,"liberal","middle","male",33,"none",TRUE
+50,2904,1,7,"liberal","upper working","male",33,"none",TRUE
+50,2904,2,7,"liberal","middle","male",33,"none",TRUE
+50,2904,3,7,"liberal","upper working","male",33,"none",TRUE
+50,2909,0,5,"labour","lower working","female",64,"catholic",FALSE
+50,2909,1,4,"labour","lower working","female",64,"catholic",FALSE
+50,2909,2,0,"labour","lower working","female",64,"catholic",FALSE
+50,2909,3,6,"labour","lower working","female",64,"catholic",FALSE
+51,3020,0,3,"conservative","middle","male",41,"protestant",FALSE
+51,3020,1,5,"conservative","middle","male",41,"protestant",FALSE
+51,3020,2,2,"liberal","lower working","male",41,"protestant",FALSE
+51,3020,3,2,"liberal","middle","male",41,"protestant",FALSE
+51,3025,0,5,"conservative","upper working","female",36,"protestant",FALSE
+51,3025,1,4,"conservative","upper working","female",36,"protestant",FALSE
+51,3025,2,7,"conservative","middle","female",36,"protestant",FALSE
+51,3025,3,6,"conservative","middle","female",36,"protestant",FALSE
+51,3029,0,7,"conservative","lower working","female",56,"protestant",FALSE
+51,3029,1,2,"conservative","lower working","female",56,"protestant",FALSE
+51,3029,2,7,"conservative","lower working","female",56,"protestant",FALSE
+51,3029,3,6,"conservative","lower working","female",56,"protestant",FALSE
+52,3100,0,3,"labour","upper working","male",36,"none",TRUE
+52,3100,1,4,"liberal","lower working","male",36,"none",TRUE
+52,3100,2,4,"liberal","upper working","male",36,"none",TRUE
+52,3100,3,7,"labour","upper working","male",36,"none",TRUE
+52,3111,0,7,"conservative","upper working","female",66,"none",TRUE
+52,3111,1,6,"conservative","lower working","female",66,"none",TRUE
+52,3111,2,7,"conservative","lower working","female",66,"none",TRUE
+52,3111,3,7,"liberal","lower working","female",66,"none",TRUE
+52,3112,0,6,"conservative","middle","female",38,"protestant",FALSE
+52,3112,1,6,"conservative","middle","female",38,"protestant",FALSE
+52,3112,2,4,"conservative","middle","female",38,"protestant",FALSE
+52,3112,3,7,"conservative","middle","female",38,"protestant",FALSE
+53,3193,0,4,"conservative","upper working","male",60,"protestant",FALSE
+53,3193,1,5,"conservative","upper working","male",60,"protestant",FALSE
+53,3193,2,6,"conservative","upper working","male",60,"protestant",FALSE
+53,3193,3,7,"conservative","upper working","male",60,"protestant",FALSE
+53,3194,0,5,"conservative","lower working","male",69,"protestant",FALSE
+53,3194,1,5,"conservative","lower working","male",69,"protestant",FALSE
+53,3194,2,7,"conservative","lower working","male",69,"protestant",FALSE
+53,3194,3,7,"conservative","lower working","male",69,"protestant",FALSE
+53,3196,0,3,"labour","lower working","female",41,"protestant",FALSE
+53,3196,1,7,"labour","lower working","female",41,"protestant",FALSE
+53,3196,2,7,"labour","lower working","female",41,"protestant",FALSE
+53,3196,3,7,"labour","lower working","female",41,"protestant",FALSE
+53,3201,0,2,"conservative","upper working","male",55,"protestant",FALSE
+53,3201,1,2,"conservative","upper working","male",55,"protestant",FALSE
+53,3201,2,2,"conservative","upper working","male",55,"protestant",FALSE
+53,3201,3,3,"conservative","upper working","male",55,"protestant",FALSE
+54,3256,0,5,"liberal","lower working","female",70,"protestant",FALSE
+54,3256,1,5,"labour","lower working","female",70,"protestant",FALSE
+54,3256,2,7,"labour","lower working","female",70,"protestant",FALSE
+54,3256,3,5,"labour","lower working","female",70,"protestant",FALSE
+54,3257,0,5,"liberal","lower working","female",57,"protestant",FALSE
+54,3257,1,4,"labour","upper working","female",57,"protestant",FALSE
+54,3257,2,4,"labour","middle","female",57,"protestant",FALSE
+54,3257,3,5,"labour","lower working","female",57,"protestant",FALSE
+54,3260,0,5,"labour","lower working","male",18,"protestant",FALSE
+54,3260,1,2,"labour","lower working","male",18,"protestant",FALSE
+54,3260,2,7,"labour","lower working","male",18,"protestant",FALSE
+54,3260,3,7,"labour","lower working","male",18,"protestant",FALSE
+54,3265,0,3,"labour","lower working","female",40,"catholic",FALSE
+54,3265,1,4,"labour","lower working","female",40,"catholic",FALSE
+54,3265,2,4,"labour","lower working","female",40,"catholic",FALSE
+54,3265,3,6,"labour","lower working","female",40,"catholic",FALSE
+54,3268,0,3,"liberal","lower working","male",65,"other",FALSE
+54,3268,1,3,"conservative","lower working","male",65,"other",FALSE
+54,3268,2,5,"liberal","upper working","male",65,"other",FALSE
+54,3268,3,7,"conservative","lower working","male",65,"other",FALSE
