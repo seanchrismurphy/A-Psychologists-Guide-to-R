@@ -7,7 +7,10 @@ Please let me know if you have any feedback or if you find any errors (or feel f
 
 You may find <a href= "https://cran.r-project.org/doc/contrib/Short-refcard.pdf">this</a> reference card a useful reminder for common functions
 
+http://seancmurphy.com/
 
+
+### Referencing
 If you find yourself wanting to cite this course, the easiest way to do so is to cite the Week 1 introductory guide, which is available as a pre-print on the Open Science Framework, and points to the larger course. You can do so as follows:
 
 Murphy, S. C. (2017, May 3). A Psychologist's Guide to R. Retrieved from osf.io/v48zr
@@ -15,9 +18,8 @@ Murphy, S. C. (2017, May 3). A Psychologist's Guide to R. Retrieved from osf.io/
 
 If you would prefer to directly cite the repository, you can do so as follows:
 
-Murphy, S. C. (2017, May 2). A Psychologist's Guide To R. Retrieved May 02, 2017, from https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R. DOI: 10.5281/zenodo.570953
+Murphy, S. C. (2017, May 2). A Psychologist's Guide To R. Retrieved [Insert Date], from https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R. DOI: 10.5281/zenodo.570953
 
-http://seancmurphy.com/
 
 
 [![DOI](https://zenodo.org/badge/89973875.svg)](https://zenodo.org/badge/latestdoi/89973875)
