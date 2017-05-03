@@ -8,6 +8,17 @@ Please let me know if you have any feedback or if you find any errors (or feel f
 You may find <a href= "https://cran.r-project.org/doc/contrib/Short-refcard.pdf">this</a> reference card a useful reminder for common functions
 
 
+If you find yourself wanting to cite this course, there are a few ways to do it. APA style hasn't really caught up to Github repositories. If you follow APA style to cite a webpage, it would look like this:
+
+Murphy, S. C. (2017, May 2). A Psychologist's Guide To R. Retrieved May 02, 2017, from https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R. DOI: 10.5281/zenodo.570953
+
+Though I prefer this style:
+Murphy, S. C., A Psychologist's Guide to R, (2017), GitHub repository, https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R. DOI: 10.5281/zenodo.570953
+
+The introduction to R pdf is also registered as a pre-print on the open science framework, and can be directly cited as follows:
+Murphy, S. C. (2017, May 3). Introduction to R. Retrieved from osf.io/v48zr
+
+
 http://seancmurphy.com/
 
 [![DOI](https://zenodo.org/badge/89973875.svg)](https://zenodo.org/badge/latestdoi/89973875)
