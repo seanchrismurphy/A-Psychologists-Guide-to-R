@@ -1,4 +1,4 @@
-# A-Psychologists-Guide-to-R
+# A Psychologist's Guide to R
 This is a repository containing the course notes and worked examples for a six week course in the R statistical programming language taught at the University of Melbourne, Australia. It is targeted at graduate students and faculty in psychology (and probably other social sciences) with no programming experience, and covers the use of R from the basics up to multilevel modelling, though it is not exhaustive within that range.
 
 While I taught this course live, I also designed it with self-teaching in mind. Starting in Week 1, reading through the Introduction to R handout will get you started using R with no previous experience. From there, each week contains R files that teach the relevant content and then have worked exercises to test it. I suggest downloading this repository and opening each .R file within RStudio (which you'll understand after reading the Introduction to R handout) to work through.
