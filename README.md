@@ -18,7 +18,7 @@ Murphy, S. C. (2017, May 3). A Psychologist's Guide to R. Retrieved from osf.io/
 
 If you would prefer to directly cite the repository, you can do so as follows:
 
-Murphy, S. C. (2017, May 2). A Psychologist's Guide To R. Retrieved [Insert Date], from https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R. DOI: 10.5281/zenodo.570953
+Murphy, S. C. (2017, May 3). A Psychologist's Guide To R. Retrieved [Insert Date], from https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R. DOI: 10.5281/zenodo.570953
 
 
 
