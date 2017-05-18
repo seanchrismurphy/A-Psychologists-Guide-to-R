@@ -6,7 +6,7 @@
 
 ## Reading in your data ##
 
-# 2. Set you working directory to wherever you've copied the Week 3 dropbox folder. 
+# 2. Set you working directory to wherever you've copied the Week 3 folder. 
 
 # Remember that you can run getwd() to find out where your current working directory is, and then modify that
 # path and use setwd() to change your working directory.

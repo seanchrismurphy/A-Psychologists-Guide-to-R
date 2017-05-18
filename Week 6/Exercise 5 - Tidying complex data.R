@@ -1,4 +1,9 @@
-status <- read.csv('/Users/Sean/Dropbox/Post-Doc/R course/Raw materials/Week 6/Data/status data messy.csv', 
+# In this example I'll be demonstrating some of the principles of tidying data using a complicated, messy dataset
+# collected via Qualtrics (courtesy of Dr Katie Greenaway)
+
+# As always, you'll want to point this reference to wherever you have saved the data from dropbox. 
+
+status <- read.csv('/Users/Sean/Dropbox/Data/status data messy.csv', 
                    stringsAsFactors = FALSE)
 
 # This dataset is quite an untidy one (though I have cleaned it slightly from its original state). Take a look:
@@ -126,5 +131,8 @@ head(statuscast)
 # experimental hypothesis that expression will only help participants if it seems authentic. 
 summary(lmer(charisma ~ 1 + exp_cond*auth_cond + (1|pid) + (1|subject), data = statuscast))
 
+
+# I haven't included any exercises for this final demonstration, but I do encourage you to try out the principles
+# I've shown here on your own data. Best of luck!
 
 

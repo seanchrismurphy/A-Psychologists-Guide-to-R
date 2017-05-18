@@ -14,7 +14,7 @@
 # for, and once you've selected it, it prints the full file path to that file. You can then use that as an input 
 # to read.csv. 
 
-# Try running file.choose() and navigate to wherever you've copied the shared dropbox folder. Select the 'week
+# Try running file.choose() and navigate to wherever you've copied the Week 2 folder. Select the 'week
 # 2 data.csv' file.
 file_path <- file.choose()
 
@@ -32,7 +32,7 @@ week2 <- read.csv(file.choose(), stringsAsFactors = FALSE)
 # is set to where your data are, you only need to input the name of the data file to read.csv() in order to
 # load it, without specifying a file path. 
 
-# Try setting the working directory below to wherever you copied the shared dropbox folder for this week.
+# Try setting the working directory below to wherever you copied the folder for this week.
 # Remember that you can use file.choose() to get the path to a file in that folder, but here you'll need to 
 # make sure you've specified the path to the folder, not any particular file. If you get an error, it 
 # likely means you've specified the file path wrong. Remember that this is case sensitive, and that you'll

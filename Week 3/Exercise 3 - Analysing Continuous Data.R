@@ -1,7 +1,7 @@
 ### Analysing Continuous Data in R ###
 
 # For this exercise, we'll read in some more real data. If you haven't already, set you working directory
-# to wherever you've copied the Week 3 dropbox folder. Remember that if you can't get setwd() to work, 
+# to wherever you've copied the Week 3 folder. Remember that if you can't get setwd() to work, 
 # you can use the dropdown menu in RStudio (Session -> Set working directory -> choose directory). 
 
 # Once you've done that, run the following:
