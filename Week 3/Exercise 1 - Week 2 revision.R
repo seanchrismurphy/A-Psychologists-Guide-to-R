@@ -23,7 +23,7 @@ setwd('C:/Users/Sean/Dropbox/Data')
 
 
 # 3. Read in 'us crime data.csv' as a data.frame named 'crime'. Remember to set the 
-#    stringsAsFactors argument to TRUE.
+#    stringsAsFactors argument to FALSE.
 
 
 ## Subsetting with replacement ## 
