@@ -75,6 +75,7 @@ qplot(charis$neo_open, charis$emexp)
 # package that I maintain. To load that package, we're going to run the following line of code.
 
 install.packages('devtools'); require(devtools); install_github('seanchrismurphy/Smisc', require(Smisc))
+install.packages('Hmisc')
 
 # Once that's done, you should have access to the corstars function, which you can run on a dataset
 # (or part of a dataset) to get a correlation matrix:
