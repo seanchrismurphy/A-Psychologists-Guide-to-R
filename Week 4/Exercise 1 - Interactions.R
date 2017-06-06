@@ -189,7 +189,28 @@ summary(lm(anchoring1 ~ anch1group * age.c, data = manylabs))
 # slopes for the interaction would show that the difference between low and high anchoring is 1305 at 
 # low age and 991 at high age. 
 
+# Note that there is one final component to the simple slopes. We've calculated the steepness of the slopes,
+# but they also have an intercept. Because there is a positive main effect of age on our DV, the slope for
+# the high age group will start off a little higher than the slope for the low age group. Specifically, 
+# both lines share the overall model intercept of about 2848, but the high age group adds 56 (to start at
+# 2904), and the low age group subtracts 56 (to start at 2794) from that number. 
 
+
+# For the visual learners among us, the code below adds together the intercept and slope values that we've
+# calculated to predict the value of the DV at each combination of age and anchoring group, and then plots
+# it in the familiar simple slope form. You can see that the high age group starts out a little higher on
+# the dv, but the slopes cross over because the low age group's steeper slope overcomes that initial 
+# difference. 
+
+slopes <- data.frame('age' = c('low', 'low', 'high', 'high'), 
+                     'anch' = c('low', 'high', 'low', 'high'), 
+                     DV = c(2794, 2794+1305, 2848, 2848+991))
+slopes$anch <- factor(slopes$anch, levels = c('low', 'high'))
+
+install.packages('ggplot2')
+require(ggplot2)
+
+ggplot(slopes, aes(x = anch, y = score, group = age, color = age)) + geom_line()
 
 ### Interactions between continuous variables. 
 
