@@ -133,4 +133,4 @@ missing_example[!is.na(missing_example)]
 
 
 # Answer:
-missing_example[!is.na(missing_example)] <- 0
+missing_example[is.na(missing_example)] <- 0
